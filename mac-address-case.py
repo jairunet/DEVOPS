@@ -1,0 +1,10 @@
+print("00:22:xx:xx:xx:xx""\n"
+      "00:22:xx:xx:xx:xx""\n"
+      "00:22:xx:xx:xx:xx""\n"
+      "00:22:xx:xx:xx:xx""\n"
+      "00:22:xx:xx:xx:xx""\n"
+      "00:22:xx:xx:xx:xx""\n"
+      "00:22:xx:xx:xx:xx""\n"
+      "00:22:xx:xx:xx:xx""\n"
+      "00:22:xx:xx:xx:xx""\n"
+      "00:22:xx:xx:xx:xx""\n".lower())
